@@ -9,6 +9,17 @@
 
 </div>
 
+## 🧩 Open Source Contributions
+
+| Organization | Repository | Type | PR |
+|-------------|------------|------|----|
+| [Sugar Labs](https://github.com/sugarlabs) | [Website-v2](https://github.com/sugarlabs/www-v2) | PR (Merged) | [#683](https://github.com/sugarlabs/www-v2/pull/683) |
+| [Sugar Labs](https://github.com/sugarlabs) | [Website-v2](https://github.com/sugarlabs/www-v2) | PR (Merged) | [#678](https://github.com/sugarlabs/www-v2/pull/678) |
+| [Sugar Labs](https://github.com/sugarlabs) | [Website-v2](https://github.com/sugarlabs/www-v2) | PR (Merged) | [#676](https://github.com/sugarlabs/www-v2/pull/676) |
+
+> 🌱 I am an early-stage open-source contributor, actively learning and looking to take on more meaningful contributions and long-term involvement in open-source projects.
+
+
 ## 🚀 Full Stack Developer | Open Source Enthusiast | Problem Solver
 
 I'm a Computer Science student specializing in AI & ML, passionate about building scalable web applications and contributing to open-source projects. Currently working as a Full Stack Developer Intern at **Tektree**, where I optimize APIs and architect efficient solutions.
