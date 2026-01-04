@@ -16,6 +16,7 @@
 | [Sugar Labs](https://github.com/sugarlabs) | [Website-v2](https://github.com/sugarlabs/www-v2) | PR (Merged) | [#683](https://github.com/sugarlabs/www-v2/pull/683) |
 | [Sugar Labs](https://github.com/sugarlabs) | [Website-v2](https://github.com/sugarlabs/www-v2) | PR (Merged) | [#678](https://github.com/sugarlabs/www-v2/pull/678) |
 | [Sugar Labs](https://github.com/sugarlabs) | [Website-v2](https://github.com/sugarlabs/www-v2) | PR (Merged) | [#676](https://github.com/sugarlabs/www-v2/pull/676) |
+| [Sugar Labs](https://github.com/sugarlabs) | [Website-v2](https://github.com/sugarlabs/www-v2) | PR (Merged) | [#691](https://github.com/sugarlabs/www-v2/pull/691) |
 
 > 🌱 I am an early-stage open-source contributor, actively learning and looking to take on more meaningful contributions and long-term involvement in open-source projects.
 
